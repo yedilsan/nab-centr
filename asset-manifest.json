@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nab-centr/static/css/main.41ceedc4.css",
+    "main.js": "/nab-centr/static/js/main.22a0c05c.js",
+    "static/js/905.5518486e.chunk.js": "/nab-centr/static/js/905.5518486e.chunk.js",
+    "static/js/313.1f81ae60.chunk.js": "/nab-centr/static/js/313.1f81ae60.chunk.js",
+    "static/js/492.ffb3527f.chunk.js": "/nab-centr/static/js/492.ffb3527f.chunk.js",
+    "index.html": "/nab-centr/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.41ceedc4.css",
+    "static/js/main.22a0c05c.js"
+  ]
+}
