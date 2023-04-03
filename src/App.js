@@ -159,7 +159,7 @@ function App() {
           exportButton: true,
           exportAllData: true,
           exportFileName: "TableData",
-          exportDelimiter: " ",
+          exportDelimiter: ",",
           addRowPosition: "last",
           actionsColumnIndex: -1,
           selection: true,
